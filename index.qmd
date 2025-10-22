@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-about:
+about: 
   id: me
   template: broadside
   image: img/profile.png
@@ -8,11 +8,16 @@ about:
 
 :::{#me}
 
+I am currently a senior undergraduate student studying Biochemistry at UNH! My research focuses on viral-host interactions in sopil ecosystems.
+
 ## Goals
+Do well in BIOL 806!
 
 ## Education
+I'm currently studying Biochemistry!
 
 ## Experience
+I work at a lab on campus studying viral-host interactions!
 
 :::
 

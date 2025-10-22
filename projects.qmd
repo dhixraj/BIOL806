@@ -3,7 +3,7 @@ title: "Projects"
 ---
 
 ## Project 1
+Microbes in permafrost!
 
 ## Project 2
-
-## Project 3
+Viral-host interactions!
